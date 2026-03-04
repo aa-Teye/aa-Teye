@@ -12,9 +12,9 @@
 
 ### 🚀 Mission Control: Active Focus
 **Architecting:** **High-Performance Backend APIs** — Focused on scalable solutions for **Education & Healthcare**.  
-**Instruction:** **Teaching Assistant** — Mentoring the next generation of solution providers at UG.  
+**Instruction:** **Teaching Assistant** — Mentoring the next generation of solution. 
 **Leadership:** **Project Management @ ONC** — Orchestrating digital transformation for global ministry reach.  
-**Governance:** **President, The Haven-ONCYM** — Leading youth through vision and technology.
+**Governance:** **President, The Haven-ONCYM** — Leading youth through biblical approaches and technology.
 
 ---
 ### 📊 2026 Development Velocity
