@@ -19,7 +19,7 @@
 ---
 ### 2026 Development Velocity
 ![Progress](https://geps.dev/progress/89?dangerColor=800080&warningColor=ff0000&successColor=0077B5)
-*Current focus: High-Performance Backend APIs & ONC Digital Transformation*
+*Current focus: High-Performance Backend APIs & Digital Transformation Technologies development*
 
 ### 🛠️ Core Engineering Stack
 <p align="center">
