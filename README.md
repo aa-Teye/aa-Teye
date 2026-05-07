@@ -7,7 +7,7 @@
 Teaching Assistant · University of Ghana, Dept. of Computer Science
 President · The Haven-ONCYM
 
----
+
 
 ### 🛠️ Tech Stack
 
@@ -20,12 +20,12 @@ President · The Haven-ONCYM
   <img src="https://img.shields.io/badge/Git-E44C30?style=flat-square&logo=git&logoColor=white" />
 </p>
 
----
+
 
 ### 🎥 Additional Skills
 **Live Broadcast Engineering:** `vMix` · `Live Streaming` · `Digital Production`
 
----
+
 
 ### 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-ametepey-1123a3205)
