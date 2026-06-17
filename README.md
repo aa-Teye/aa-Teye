@@ -4,22 +4,6 @@
 
 ### Backend Engineer · Python Developer · Media Systems Engineer
 
-Teaching Assistant · University of Ghana, Dept. of Computer Science
-President · The Haven-ONCYM
-
-
-
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=api&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-E44C30?style=flat-square&logo=git&logoColor=white" />
-</p>
-
 
 
 ### 📫 Connect
