@@ -22,11 +22,6 @@ President · The Haven-ONCYM
 
 
 
-### 🎥 Additional Skills
-**Live Broadcast Engineering:** `vMix` · `Live Streaming` · `Digital Production`
-
-
-
 ### 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-ametepey-1123a3205)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:alexteyeametepey@gmail.com)
