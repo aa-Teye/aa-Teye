@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=150&section=header&text=Alex%20Teye%20Ametepey&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Media%20Systems%20Engineer&descAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=150&section=header&text=Alex%20Teye%20Ametepey&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Backend%20Architect%20%7C%20Media%20Systems%20Engineer&descAlignY=55" width="100%" />
 
-### Full Stack Developer · Media Systems Engineer · Building things that matter
+### Backend Architect · Media Systems Engineer · University of Ghana
 
 </div>
 
@@ -10,53 +10,45 @@
 
 ## About Me
 
-I'm a developer and media systems engineer on a full stack journey — bridging the gap between software engineering and live media production. I build web, mobile, and desktop applications while also working with professional broadcast tools like vMix.
-
-- 🌱 Currently levelling up in **FastAPI** and **React Native**
-- 🖥️ Background in **media system engineering** and live production workflows
-- 🔧 I enjoy building tools that solve real problems — from web apps to desktop software
-- 📍 Always learning, always shipping
+I am a Backend Architect and Media Systems Engineer based in Ghana. I design and build backend systems with Python and FastAPI, develop cross-platform mobile and desktop applications, and manage live broadcast production environments. I also serve as a Teaching Assistant in the Department of Computer Science at the University of Ghana, Legon, where I support students in core computing courses. My work sits at the intersection of software engineering and media technology, with a focus on building reliable systems for fintech and health.
 
 ---
 
 ## Tech Stack
 
-**Frontend**
+**Backend**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Frontend & Mobile**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-**Backend & Desktop**
+**Desktop**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron&logoColor=white)
 
 **Tools & Workflow**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![vMix](https://img.shields.io/badge/vMix-Media_Systems-1A1A2E?style=for-the-badge)
+
+**Media Systems**
+
+![vMix](https://img.shields.io/badge/vMix-Live%20Production-1A1A2E?style=for-the-badge)
 
 ---
 
-## GitHub Stats
+## Focus Areas
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aa-Teye&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aa-Teye&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-## What I'm Working On
-
-- 💳 Fintech software using **FastAPI**
-- 🏥 Health apps with **React Native + Expo**
-- 🖥️ Desktop tooling with **Electron.js**
+- 💳 Fintech systems and payment software
+- 🏥 Health and clinical applications
+- 🖥️ Desktop tooling with Electron.js
 
 ---
 
@@ -64,13 +56,10 @@ I'm a developer and media systems engineer on a full stack journey — bridging 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-ametepey-1123a3205)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexteyeametepey@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-aa--Teye-181717?style=for-the-badge&logo=github)](https://github.com/aa-Teye)
 
 ---
 
 <div align="center">
-
-<em>"Build in public. Learn in progress."</em>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=100&section=footer" width="100%" />
 
