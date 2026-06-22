@@ -55,10 +55,9 @@ I'm a developer and media systems engineer on a full stack journey — bridging 
 
 ## What I'm Working On
 
-- 📱 Cross-platform mobile apps with **React Native + Expo**
-- 🌐 Full stack web projects with **Next.js + FastAPI**
+- 💳 **Fintech** — building payment and financial tools with **Next.js + FastAPI**
+- 🏥 **Health tech** — developing patient and clinical apps with **React Native + Expo**
 - 🖥️ Desktop tooling with **Electron.js**
-- 🎬 Integrating software engineering into **live media production pipelines**
 
 ---
 
