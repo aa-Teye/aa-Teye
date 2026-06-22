@@ -10,7 +10,7 @@
 
 ## About Me
 
-I am a Backend Architect and Media Systems Engineer based in Ghana. I design and build backend systems with Python and FastAPI, develop cross-platform mobile and desktop applications, and manage live broadcast production environments. I also serve as a Teaching Assistant in the Department of Computer Science at the University of Ghana, Legon, where I support students in core computing courses. My work sits at the intersection of software engineering and media technology, with a focus on building reliable systems for fintech and health.
+I am a Backend Architect and Media Systems Engineer based in Ghana. I design and build backend systems with Python and FastAPI, develop cross-platform mobile and desktop applications, and manage live broadcast production environments. I also serve as a Research Assistant in the Department of Computer Science at the University of Ghana, Legon. My work sits at the intersection of software engineering and media technology, with a focus on building reliable systems for fintech and health.
 
 ---
 
@@ -20,6 +20,7 @@ I am a Backend Architect and Media Systems Engineer based in Ghana. I design and
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 **Frontend & Mobile**
 
@@ -41,6 +42,10 @@ I am a Backend Architect and Media Systems Engineer based in Ghana. I design and
 **Media Systems**
 
 ![vMix](https://img.shields.io/badge/vMix-Live%20Production-1A1A2E?style=for-the-badge)
+![OBS Studio](https://img.shields.io/badge/OBS%20Studio-302E31?style=for-the-badge&logo=obsstudio&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
+![NDI](https://img.shields.io/badge/NDI-Network%20Video-000000?style=for-the-badge)
+![RTMP](https://img.shields.io/badge/RTMP%20%2F%20HLS-Streaming-E50000?style=for-the-badge)
 
 ---
 
