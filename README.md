@@ -12,7 +12,7 @@
 
 I'm a developer and media systems engineer on a full stack journey — bridging the gap between software engineering and live media production. I build web, mobile, and desktop applications while also working with professional broadcast tools like vMix.
 
-- 🌱 Currently levelling up in **Next.js**, **FastAPI**, and **React Native**
+- 🌱 Currently levelling up in **FastAPI** and **React Native**
 - 🖥️ Background in **media system engineering** and live production workflows
 - 🔧 I enjoy building tools that solve real problems — from web apps to desktop software
 - 📍 Always learning, always shipping
@@ -24,7 +24,6 @@ I'm a developer and media systems engineer on a full stack journey — bridging 
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
@@ -55,7 +54,7 @@ I'm a developer and media systems engineer on a full stack journey — bridging 
 
 ## What I'm Working On
 
-- 💳 Fintech software using **Next.js + FastAPI**
+- 💳 Fintech software using **FastAPI**
 - 🏥 Health apps with **React Native + Expo**
 - 🖥️ Desktop tooling with **Electron.js**
 
