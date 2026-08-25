@@ -66,9 +66,9 @@ I am a Backend Architect and Media Systems Engineer based in Ghana. I design and
 
 ## Focus Areas
 
-- 💳 Fintech systems and payment software
-- 🏥 Health and clinical applications
-- 🖥️ Desktop tooling with Electron.js
+- Fintech systems and payment software
+- Health and clinical applications
+- Desktop tooling with Electron.js
 
 ---
 
